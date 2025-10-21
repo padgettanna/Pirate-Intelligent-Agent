@@ -13,6 +13,12 @@ A reinforcement learning project featuring a pirate agent navigating an 8x8 maze
 
 ---
 
+## My Contribution
+
+I implemented the Q-learning experience replay module, which stores episodes, trains the agent’s neural network, and allows the pirate to make decisions that maximize reward.
+
+---
+
 ## Features
 
 - Stores episodes (state, action, reward, next state, game status) for learning.
